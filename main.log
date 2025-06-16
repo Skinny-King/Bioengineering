@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  16 JUN 2025 15:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  16 JUN 2025 18:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -575,36 +575,81 @@ File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowlength=\dimen283
 \pgfarrowwidth=\dimen284
 \pgfarrowlinewidth=\dimen285
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodepartlowerbox=\box120
+\pgfnodeparttwobox=\box121
+\pgfnodepartthreebox=\box122
+\pgfnodepartfourbox=\box123
+\pgfnodeparttwentybox=\box124
+\pgfnodepartnineteenbox=\box125
+\pgfnodeparteighteenbox=\box126
+\pgfnodepartseventeenbox=\box127
+\pgfnodepartsixteenbox=\box128
+\pgfnodepartfifteenbox=\box129
+\pgfnodepartfourteenbox=\box130
+\pgfnodepartthirteenbox=\box131
+\pgfnodeparttwelvebox=\box132
+\pgfnodepartelevenbox=\box133
+\pgfnodeparttenbox=\box134
+\pgfnodepartninebox=\box135
+\pgfnodeparteightbox=\box136
+\pgfnodepartsevenbox=\box137
+\pgfnodepartsixbox=\box138
+\pgfnodepartfivebox=\box139
+))) (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count347
-\l__pdf_internal_box=\box120
+\l__pdf_internal_box=\box140
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
  (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count348
 \scratchdimen=\dimen286
-\scratchbox=\box121
+\scratchbox=\box141
 \nofMPsegments=\count349
 \nofMParguments=\count350
 \everyMPshowfont=\toks39
@@ -619,7 +664,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 14.
+Package hyperref Info: Link coloring OFF on input line 13.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -686,12 +731,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--20
  []
 
 )
-Overfull \hbox (1.65279pt too wide) in paragraph at lines 12--20
+Overfull \hbox (1.65279pt too wide) in paragraph at lines 12--19
 []$[]$ $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--20
+Underfull \hbox (badness 10000) in paragraph at lines 12--19
 
  []
 
@@ -751,12 +796,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
  []
 
 )
-Overfull \hbox (1.6528pt too wide) in paragraph at lines 1--32
+Overfull \hbox (1.6528pt too wide) in paragraph at lines 1--31
 []$[]$ $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--32
+Underfull \hbox (badness 10000) in paragraph at lines 1--31
 
  []
 
@@ -823,7 +868,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--11
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 12--38
+Underfull \hbox (badness 10000) in paragraph at lines 12--37
 
  []
 
@@ -865,22 +910,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
  []
 
 )
-Overfull \hbox (1.65279pt too wide) in paragraph at lines 1--43
+Overfull \hbox (1.65279pt too wide) in paragraph at lines 1--42
 []$[]$ $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--43
+Underfull \hbox (badness 10000) in paragraph at lines 1--42
 
  []
 
 (./src/VL4/rna.tex)
-Overfull \hbox (1.04291pt too wide) in paragraph at lines 1--45
+Overfull \hbox (1.04291pt too wide) in paragraph at lines 1--44
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--45
+Underfull \hbox (badness 10000) in paragraph at lines 1--44
 
  []
 
@@ -932,7 +977,7 @@ File: src/Images/gene_regulation.png Graphic file (type png)
 Package pdftex.def Info: src/Images/gene_regulation.png  used on input line 1.
 (pdftex.def)             Requested size: 199.16928pt x 72.86649pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1--49
+Underfull \hbox (badness 10000) in paragraph at lines 1--48
 
  []
 
@@ -947,9 +992,127 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--3
 
  []
 
-) [1
+) (./src/VL5/cell_membrane.tex
+<src/Images/cell_membrane.png, id=23, 189.70876pt x 87.32625pt>
+File: src/Images/cell_membrane.png Graphic file (type png)
+<use src/Images/cell_membrane.png>
+Package pdftex.def Info: src/Images/cell_membrane.png  used on input line 3.
+(pdftex.def)             Requested size: 79.66771pt x 36.67278pt.
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./src/images/cell.png> <./src/images/organelles.png> <./src/images/cell_composition.png> <./src/images/main_building_blocks.png> <./src/images/energy_matter.png> <./src/images/Endergonic.png> <./src/images/Exergonic.png> <./src/Images/glucose_metabolism.png> <./src/Images/biosynthesis_of_protein.png> <./src/Images/transcription.png> <./src/Images/eukaryot_transcription.png> <./src/Images/prokaryot_transcription.png> <./src/Images/gene_regulation.png> <./src/Images/translation_ribosome.png>] (./main.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Overfull \hbox (1.65279pt too wide) in paragraph at lines 2--8
+[]$[]$ $[]$ 
+ []
+
+<src/Images/transport_across_bilayer.png, id=24, 698.61pt x 128.48pt>
+File: src/Images/transport_across_bilayer.png Graphic file (type png)
+<use src/Images/transport_across_bilayer.png>
+Package pdftex.def Info: src/Images/transport_across_bilayer.png  used on input line 9.
+(pdftex.def)             Requested size: 199.16928pt x 36.62894pt.
+) (./src/VL5/passive_transport.tex
+Underfull \hbox (badness 6173) in paragraph at lines 3--5
+\OT1/cmss/m/n/7 Along conzen-tra-tion gra-di-ent,
+ []
+
+<src/Images/osmosis.png, id=25, 475.7775pt x 182.6825pt>
+File: src/Images/osmosis.png Graphic file (type png)
+<use src/Images/osmosis.png>
+Package pdftex.def Info: src/Images/osmosis.png  used on input line 16.
+(pdftex.def)             Requested size: 99.58464pt x 38.23622pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+
+ []
+
+
+Overfull \hbox (1.6528pt too wide) in paragraph at lines 2--20
+[]$[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+<src/Images/channel.png, id=26, 921.4425pt x 288.07625pt>
+File: src/Images/channel.png Graphic file (type png)
+<use src/Images/channel.png>
+Package pdftex.def Info: src/Images/channel.png  used on input line 25.
+(pdftex.def)             Requested size: 99.58464pt x 31.13022pt.
+
+Overfull \hbox (13.75298pt too wide) in paragraph at lines 25--26
+[][] 
+ []
+
+
+Underfull \hbox (badness 7238) in paragraph at lines 32--33
+[]\OT1/cmss/m/n/7 Transporter good for large
+ []
+
+)
+Overfull \hbox (1.65279pt too wide) in paragraph at lines 23--57
+[]$ $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--57
+
+ []
+
+(./src/VL5/active_transport.tex
+<src/Images/pumps.png, id=27, 686.565pt x 380.42125pt>
+File: src/Images/pumps.png Graphic file (type png)
+<use src/Images/pumps.png>
+Package pdftex.def Info: src/Images/pumps.png  used on input line 2.
+(pdftex.def)             Requested size: 99.58464pt x 55.17416pt.
+)
+Overfull \hbox (7.62236pt too wide) in paragraph at lines 1--61
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--61
+
+ []
+
+(./src/VL5/vesicular_transport.tex)
+Overfull \hbox (2.02264pt too wide) in paragraph at lines 58--68
+[]$[]$ |  $[]$ 
+ []
+
+(./src/VL5/intracellular_transport.tex
+<src/Images/intracellular.png, id=28, 315.1775pt x 273.02pt>
+File: src/Images/intracellular.png Graphic file (type png)
+<use src/Images/intracellular.png>
+Package pdftex.def Info: src/Images/intracellular.png  used on input line 2.
+(pdftex.def)             Requested size: 99.58464pt x 86.2642pt.
+
+Overfull \hbox (15.79547pt too wide) in paragraph at lines 2--3
+[][] 
+ []
+
+)
+Overfull \hbox (1.65279pt too wide) in paragraph at lines 1--71
+[]$[]$ $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--71
+
+ []
+
+[1
+
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./src/images/cell.png> <./src/images/organelles.png> <./src/images/cell_composition.png> <./src/images/main_building_blocks.png> <./src/images/energy_matter.png> <./src/images/Endergonic.png> <./src/images/Exergonic.png> <./src/Images/glucose_metabolism.png> <./src/Images/biosynthesis_of_protein.png> <./src/Images/transcription.png> <./src/Images/eukaryot_transcription.png> <./src/Images/prokaryot_transcription.png> <./src/Images/gene_regulation.png> <./src/Images/translation_ribosome.png> <./src/Images/cell_membrane.png> <./src/Images/transport_across_bilayer.png> <./src/Images/osmosis.png> <./src/Images/channel.png> <./src/Images/pumps.png>] [2 <./src/Images/intracellular.png>] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -958,18 +1121,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23491 strings out of 474116
- 460155 string characters out of 5743682
- 2023187 words of memory out of 5000000
- 45423 multiletter control sequences out of 15000+600000
+ 25439 strings out of 474116
+ 518030 string characters out of 5743682
+ 2028187 words of memory out of 5000000
+ 47314 multiletter control sequences out of 15000+600000
  561855 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 116i,19n,121p,517b,926s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 116i,19n,121p,517b,1014s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb>
-Output written on main.pdf (1 page, 28035983 bytes).
+Output written on main.pdf (2 pages, 29492094 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
+ 141 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream
- 28 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 named destinations out of 1000 (max. 500000)
+ 113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
