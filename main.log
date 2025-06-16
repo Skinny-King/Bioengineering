@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  4 JUN 2025 19:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  16 JUN 2025 10:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -724,7 +724,7 @@ Overfull \hbox (21.84874pt too wide) in paragraph at lines 6--9
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 12.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)) (./src/VL2/enzymes.tex) (./src/VL2/bounds.tex
+)) (./src/VL2/bounds.tex
 Overfull \hbox (20.60577pt too wide) detected at line 14
 []
  []
@@ -734,9 +734,107 @@ Overfull \hbox (0.16832pt too wide) in paragraph at lines 1--16
 []$[]$$[]$ 
  []
 
-) [1
+) (./src/VL2/enzymes.tex) (./src/VL3/energy_and_metbolism.tex
+<src/images/energy_matter.png, id=13, 1083.04625pt x 412.54124pt>
+File: src/images/energy_matter.png Graphic file (type png)
+<use src/images/energy_matter.png>
+Package pdftex.def Info: src/images/energy_matter.png  used on input line 2.
+(pdftex.def)             Requested size: 113.81102pt x 43.34644pt.
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./src/images/cell.png> <./src/images/organelles.png> <./src/images/cell_composition.png> <./src/images/main_building_blocks.png>] (./main.aux)
+Overfull \hbox (11.63pt too wide) in paragraph at lines 2--3
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+[]\OT1/cmss/bx/n/7 Anabolism: \OT1/cmss/m/n/7 Syn-the-sis
+ []
+
+)
+Overfull \hbox (1.6528pt too wide) in paragraph at lines 1--32
+[]$[]$ $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--32
+
+ []
+
+(./src/VL3/free_energy.tex
+<src/images/Endergonic.png, id=14, 465.74pt x 320.19624pt>
+File: src/images/Endergonic.png Graphic file (type png)
+<use src/images/Endergonic.png>
+Package pdftex.def Info: src/images/Endergonic.png  used on input line 2.
+(pdftex.def)             Requested size: 42.67912pt x 29.33919pt.
+
+Overfull \hbox (1.80734pt too wide) in paragraph at lines 2--3
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--9
+
+ []
+
+<src/images/Exergonic.png, id=15, 465.74pt x 320.19624pt>
+File: src/images/Exergonic.png Graphic file (type png)
+<use src/images/Exergonic.png>
+Package pdftex.def Info: src/images/Exergonic.png  used on input line 11.
+(pdftex.def)             Requested size: 42.67912pt x 29.33919pt.
+
+Overfull \hbox (1.80734pt too wide) in paragraph at lines 11--12
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+) (./src/VL3/redox.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--3
+
+ []
+
+) (./src/VL3/glucose_metabolism.tex
+<src/Images/glucose_metabolism.png, id=16, 558.085pt x 645.41125pt>
+File: src/Images/glucose_metabolism.png Graphic file (type png)
+<use src/Images/glucose_metabolism.png>
+Package pdftex.def Info: src/Images/glucose_metabolism.png  used on input line 1.
+(pdftex.def)             Requested size: 199.16928pt x 230.329pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 3--38
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--38
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--38
+
+ []
+
+[1
+
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./src/images/cell.png> <./src/images/organelles.png> <./src/images/cell_composition.png> <./src/images/main_building_blocks.png> <./src/images/energy_matter.png> <./src/images/Endergonic.png> <./src/images/Exergonic.png> <./src/Images/glucose_metabolism.png>] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -745,18 +843,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23330 strings out of 474116
- 455370 string characters out of 5743682
- 1970187 words of memory out of 5000000
- 45309 multiletter control sequences out of 15000+600000
+ 23395 strings out of 474116
+ 457172 string characters out of 5743682
+ 1994187 words of memory out of 5000000
+ 45354 multiletter control sequences out of 15000+600000
  561855 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 116i,19n,121p,517b,910s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 116i,19n,121p,517b,916s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb>
-Output written on main.pdf (1 page, 24913810 bytes).
+Output written on main.pdf (1 page, 26029510 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 107 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
+ 20 named destinations out of 1000 (max. 500000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
