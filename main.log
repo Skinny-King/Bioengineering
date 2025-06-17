@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  16 JUN 2025 18:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  17 JUN 2025 08:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1058,35 +1058,30 @@ Underfull \hbox (badness 7238) in paragraph at lines 32--33
 []\OT1/cmss/m/n/7 Transporter good for large
  []
 
-)
-Overfull \hbox (1.65279pt too wide) in paragraph at lines 23--57
-[]$ $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--57
-
- []
-
-(./src/VL5/active_transport.tex
+) (./src/VL5/active_transport.tex
 <src/Images/pumps.png, id=27, 686.565pt x 380.42125pt>
 File: src/Images/pumps.png Graphic file (type png)
 <use src/Images/pumps.png>
 Package pdftex.def Info: src/Images/pumps.png  used on input line 2.
 (pdftex.def)             Requested size: 99.58464pt x 55.17416pt.
 )
-Overfull \hbox (7.62236pt too wide) in paragraph at lines 1--61
+Overfull \hbox (7.62236pt too wide) in paragraph at lines 1--60
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--61
+Underfull \hbox (badness 10000) in paragraph at lines 1--60
 
  []
 
 (./src/VL5/vesicular_transport.tex)
-Overfull \hbox (2.02264pt too wide) in paragraph at lines 58--68
-[]$[]$ |  $[]$ 
+Overfull \hbox (1.65279pt too wide) in paragraph at lines 23--67
+[]$ $[]$
+ []
+
+
+Overfull \hbox (2.02264pt too wide) in paragraph at lines 23--67
+[]$ |  $[]$ 
  []
 
 (./src/VL5/intracellular_transport.tex
@@ -1101,18 +1096,64 @@ Overfull \hbox (15.79547pt too wide) in paragraph at lines 2--3
  []
 
 )
-Overfull \hbox (1.65279pt too wide) in paragraph at lines 1--71
+Overfull \hbox (1.65279pt too wide) in paragraph at lines 1--69
 []$[]$ $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--71
+Underfull \hbox (badness 10000) in paragraph at lines 1--69
 
  []
 
 [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./src/images/cell.png> <./src/images/organelles.png> <./src/images/cell_composition.png> <./src/images/main_building_blocks.png> <./src/images/energy_matter.png> <./src/images/Endergonic.png> <./src/images/Exergonic.png> <./src/Images/glucose_metabolism.png> <./src/Images/biosynthesis_of_protein.png> <./src/Images/transcription.png> <./src/Images/eukaryot_transcription.png> <./src/Images/prokaryot_transcription.png> <./src/Images/gene_regulation.png> <./src/Images/translation_ribosome.png> <./src/Images/cell_membrane.png> <./src/Images/transport_across_bilayer.png> <./src/Images/osmosis.png> <./src/Images/channel.png> <./src/Images/pumps.png>] [2 <./src/Images/intracellular.png>] (./main.aux)
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./src/images/cell.png> <./src/images/organelles.png> <./src/images/cell_composition.png> <./src/images/main_building_blocks.png> <./src/images/energy_matter.png> <./src/images/Endergonic.png> <./src/images/Exergonic.png> <./src/Images/glucose_metabolism.png> <./src/Images/biosynthesis_of_protein.png> <./src/Images/transcription.png> <./src/Images/eukaryot_transcription.png> <./src/Images/prokaryot_transcription.png> <./src/Images/gene_regulation.png> <./src/Images/translation_ribosome.png> <./src/Images/cell_membrane.png> <./src/Images/transport_across_bilayer.png> <./src/Images/osmosis.png> <./src/Images/channel.png> <./src/Images/pumps.png>] (./src/VL6/cellular_com.tex)
+Overfull \hbox (1.6528pt too wide) in paragraph at lines 1--73
+[]$ $[]$ 
+ []
+
+
+Overfull \hbox (1.6528pt too wide) in paragraph at lines 1--73
+[]$ $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--73
+
+ []
+
+(./src/VL6/signaling.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+) (./src/VL6/receptors.tex
+<src/Images/ion_channel.png, id=85, 918.43124pt x 534.99875pt>
+File: src/Images/ion_channel.png Graphic file (type png)
+<use src/Images/ion_channel.png>
+Package pdftex.def Info: src/Images/ion_channel.png  used on input line 3.
+(pdftex.def)             Requested size: 79.66771pt x 46.40083pt.
+<src/Images/enzyme_coupled.png, id=86, 363.3575pt x 206.7725pt>
+File: src/Images/enzyme_coupled.png Graphic file (type png)
+<use src/Images/enzyme_coupled.png>
+Package pdftex.def Info: src/Images/enzyme_coupled.png  used on input line 7.
+(pdftex.def)             Requested size: 79.66771pt x 45.33548pt.
+
+Overfull \hbox (3.2583pt too wide) in paragraph at lines 1--9
+[]$[]$ $[]$ 
+ []
+
+<src/Images/g_protein.png, id=87, 772.8875pt x 181.67876pt>
+File: src/Images/g_protein.png Graphic file (type png)
+<use src/Images/g_protein.png>
+Package pdftex.def Info: src/Images/g_protein.png  used on input line 11.
+(pdftex.def)             Requested size: 199.16928pt x 46.81676pt.
+) [2 <./src/Images/intracellular.png> <./src/Images/ion_channel.png> <./src/Images/enzyme_coupled.png> <./src/Images/g_protein.png>] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1121,18 +1162,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25439 strings out of 474116
- 518030 string characters out of 5743682
- 2028187 words of memory out of 5000000
- 47314 multiletter control sequences out of 15000+600000
+ 25493 strings out of 474116
+ 519365 string characters out of 5743682
+ 2029187 words of memory out of 5000000
+ 47351 multiletter control sequences out of 15000+600000
  561855 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 116i,19n,121p,517b,1014s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 116i,19n,121p,517b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb>
-Output written on main.pdf (2 pages, 29492094 bytes).
+Output written on main.pdf (2 pages, 30596473 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
- 26 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 155 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
+ 33 named destinations out of 1000 (max. 500000)
+ 128 words of extra memory for PDF output out of 10000 (max. 10000000)
 
