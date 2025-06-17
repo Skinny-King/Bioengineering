@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  17 JUN 2025 14:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  17 JUN 2025 16:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1256,7 +1256,127 @@ Overfull \hbox (1.93181pt too wide) in paragraph at lines 12--14
 [] 
  []
 
-) [2 <./src/Images/intracellular.png> <./src/Images/ion_channel.png> <./src/Images/enzyme_coupled.png> <./src/Images/g_protein.png> <./src/Images/cell_cycle.png> <./src/Images/doubling_time.png> <./src/Images/exp_growth.png> <./src/Images/log_growth.png> <./src/Images/transfection.png> <./src/Images/batch.png> <./src/Images/perfusion.png>] (./main.aux)
+) (./src/VL9/cytoskeleton.tex) (./src/VL9/intermed_filaments.tex
+<src/Images/interm_fil.png, id=95, 375.4025pt x 616.3025pt>
+File: src/Images/interm_fil.png Graphic file (type png)
+<use src/Images/interm_fil.png>
+Package pdftex.def Info: src/Images/interm_fil.png  used on input line 2.
+(pdftex.def)             Requested size: 42.67912pt x 70.05984pt.
+
+Overfull \hbox (12.02608pt too wide) in paragraph at lines 2--3
+[][] 
+ []
+
+)
+Overfull \hbox (1.65279pt too wide) in paragraph at lines 1--106
+[]$[]$ $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--106
+
+ []
+
+(./src/VL9/microtubules.tex
+<src/Images/microtubules.png, id=96, 375.4025pt x 616.3025pt>
+File: src/Images/microtubules.png Graphic file (type png)
+<use src/Images/microtubules.png>
+Package pdftex.def Info: src/Images/microtubules.png  used on input line 2.
+(pdftex.def)             Requested size: 42.67912pt x 70.05984pt.
+
+Overfull \hbox (12.02608pt too wide) in paragraph at lines 2--3
+[][] 
+ []
+
+)
+Overfull \hbox (1.65279pt too wide) in paragraph at lines 1--108
+[]$[]$ $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--108
+
+ []
+
+(./src/VL9/actin_filaments.tex
+<src/Images/actin.png, id=97, 375.4025pt x 616.3025pt>
+File: src/Images/actin.png Graphic file (type png)
+<use src/Images/actin.png>
+Package pdftex.def Info: src/Images/actin.png  used on input line 2.
+(pdftex.def)             Requested size: 42.67912pt x 70.05984pt.
+
+Overfull \hbox (12.02608pt too wide) in paragraph at lines 2--3
+[][] 
+ []
+
+
+Overfull \hbox (1.65279pt too wide) in paragraph at lines 1--13
+[]$[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--13
+
+ []
+
+<src/Images/muscle_contraction.png, id=98, 549.05125pt x 144.54pt>
+File: src/Images/muscle_contraction.png Graphic file (type png)
+<use src/Images/muscle_contraction.png>
+Package pdftex.def Info: src/Images/muscle_contraction.png  used on input line 15.
+(pdftex.def)             Requested size: 170.71652pt x 44.94145pt.
+) (./src/VL9/ecm.tex) (./src/VL9/composition_ecm.tex
+<src/Images/collagen.png, id=99, 471.7625pt x 284.06125pt>
+File: src/Images/collagen.png Graphic file (type png)
+<use src/Images/collagen.png>
+Package pdftex.def Info: src/Images/collagen.png  used on input line 8.
+(pdftex.def)             Requested size: 99.58464pt x 59.96236pt.
+
+Overfull \hbox (7.62236pt too wide) in paragraph at lines 8--9
+[][] 
+ []
+
+<src/Images/glycoprotein.png, id=100, 479.7925pt x 358.33875pt>
+File: src/Images/glycoprotein.png Graphic file (type png)
+<use src/Images/glycoprotein.png>
+Package pdftex.def Info: src/Images/glycoprotein.png  used on input line 11.
+(pdftex.def)             Requested size: 85.35826pt x 63.7491pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--13
+[]$[]$ $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+) (./src/VL9/cell-cell_cell-ecm.tex
+<src/Images/cell-cell.png, id=101, 249.93375pt x 280.04625pt>
+File: src/Images/cell-cell.png Graphic file (type png)
+<use src/Images/cell-cell.png>
+Package pdftex.def Info: src/Images/cell-cell.png  used on input line 2.
+(pdftex.def)             Requested size: 42.67912pt x 47.82088pt.
+
+Overfull \hbox (1.80734pt too wide) in paragraph at lines 2--3
+[][] 
+ []
+
+<src/Images/cell-ecm.png, id=102, 331.2375pt x 330.23375pt>
+File: src/Images/cell-ecm.png Graphic file (type png)
+<use src/Images/cell-ecm.png>
+Package pdftex.def Info: src/Images/cell-ecm.png  used on input line 5.
+(pdftex.def)             Requested size: 42.67912pt x 42.54892pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+) [2 <./src/Images/intracellular.png> <./src/Images/ion_channel.png> <./src/Images/enzyme_coupled.png> <./src/Images/g_protein.png> <./src/Images/cell_cycle.png> <./src/Images/doubling_time.png> <./src/Images/exp_growth.png> <./src/Images/log_growth.png> <./src/Images/transfection.png> <./src/Images/batch.png> <./src/Images/perfusion.png> <./src/Images/interm_fil.png> <./src/Images/microtubules.png> <./src/Images/actin.png> <./src/Images/muscle_contraction.png> <./src/Images/collagen.png> <./src/Images/glycoprotein.png> <./src/Images/cell-cell.png> <./src/Images/cell-ecm.png>] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1265,18 +1385,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25622 strings out of 474116
- 522714 string characters out of 5743682
+ 25738 strings out of 474116
+ 525921 string characters out of 5743682
  2029187 words of memory out of 5000000
- 47442 multiletter control sequences out of 15000+600000
+ 47528 multiletter control sequences out of 15000+600000
  561855 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  116i,19n,121p,517b,1012s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb>
-Output written on main.pdf (2 pages, 31880022 bytes).
+Output written on main.pdf (2 pages, 36138969 bytes).
 PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
- 42 named destinations out of 1000 (max. 500000)
- 163 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 208 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
+ 50 named destinations out of 1000 (max. 500000)
+ 203 words of extra memory for PDF output out of 10000 (max. 10000000)
 
