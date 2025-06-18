@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1750236713.13497 "/Users/gmernst/Documents/ETH/FS25/Bioengineering/ZF/main.tex" "main.pdf" "main" 1750236722.12998 0
-  "/Users/gmernst/Documents/ETH/FS25/Bioengineering/ZF/main.tex" 1750236703.48403 4367 5dca5e98d6baba6d627ff17dc54c0f55 ""
+["pdflatex"] 1750238008.34959 "/Users/gmernst/Documents/ETH/FS25/Bioengineering/ZF/main.tex" "main.pdf" "main" 1750238017.36023 0
+  "/Users/gmernst/Documents/ETH/FS25/Bioengineering/ZF/main.tex" 1750237745.6376 4389 a47f48f07e87de4c02d56eaae48071a2 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcss0700.tfm" 1136768653 1536 e5428b375c095aa4874fb47053e1d4fc ""
@@ -11,6 +11,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmss12.tfm" 1136768653 1324 37b971caf729d7edd9cbb9f9b0ea76eb ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmss8.tfm" 1136768653 1296 d77f431d10d47c8ea2cc18cf45346274 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm" 1136768653 1272 e2d13f0df30bf3ad990bb9d028e37f34 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm" 1136768653 768 d7b9a2629a0c353102ad947dc9221d49 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb" 1248133631 37912 77d683123f92148345f3fc36a38d9ab1 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb" 1248133631 31809 8670ca339bf94e56da1fc21c80635e2a ""
@@ -20,6 +21,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb" 1248133631 28902 2f5c04fd2884d1878057baa5aad22765 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb" 1248133631 32915 7bf7720c61a5b3a7ff25b0964421c9b6 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1248133631 32716 08e384dc442464e7285e891af9f45947 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb" 1248133631 24287 6b803fa9eb1ddff9112e00519b09dd9e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb" 1215737283 96887 f9a08e9d1e1134ccba7d0f64b6e7d730 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx0700.pfb" 1215737283 148435 73bfdcabeb1ad3208686faa3ce49af28 ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -168,9 +170,9 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1736678436 8221431 ca4cd72dc1eea36172237ab174f55076 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "cheatsheet.cls" 1748968155.38159 7731 3449040a4d36a6caf5655236ccac9428 ""
-  "main.aux" 1750236722.03375 162 59504cb8f8bee0a3f0488d753cb23a1e "pdflatex"
-  "main.out" 1750236713.54369 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1750236703.48403 4367 5dca5e98d6baba6d627ff17dc54c0f55 ""
+  "main.aux" 1750238017.25912 162 59504cb8f8bee0a3f0488d753cb23a1e "pdflatex"
+  "main.out" 1750238008.74665 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1750237745.6376 4389 a47f48f07e87de4c02d56eaae48071a2 ""
   "src/Images/actin.png" 1750164260.93504 1013285 5ad367a3baf23ab3bc534a54cb32e4c9 ""
   "src/Images/antigen_test.png" 1750235082.1921 370153 60a085fcb846823597a76f6303f69010 ""
   "src/Images/batch.png" 1750162672.70809 168028 b4187f993da9ae0ecba4a2a0b0fb45de ""
@@ -272,6 +274,7 @@
   "src/images/energy_matter.png" 1750056821.8325 881238 c7f3fb69c81c9e9c51f0249a3e8ef00e ""
   "src/images/main_building_blocks.png" 1749046720.60439 1258853 38e24edf5db6658b1e5d627ec4ee3338 ""
   "src/images/organelles.png" 1748973831.17688 4493028 b85fc4601f2b026ff9de9823152132e0 ""
+  "src/info.tex" 1750238008.05581 269 5243bcfa72182ae65b6d63a57313f490 ""
   (generated)
   "main.aux"
   "main.log"

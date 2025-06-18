@@ -698,6 +698,10 @@ INPUT ./src/Images/lnp.png
 INPUT ./src/Images/lnp.png
 INPUT ./src/Images/lnp.png
 INPUT ./src/Images/lnp.png
+INPUT ./src/info.tex
+INPUT ./src/info.tex
+INPUT src/info.tex
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
@@ -710,5 +714,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx0700.pfb
