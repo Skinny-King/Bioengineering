@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  22 JUL 2025 09:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  24 JUL 2025 12:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -999,19 +999,19 @@ File: src/Images/cell_membrane.png Graphic file (type png)
 Package pdftex.def Info: src/Images/cell_membrane.png  used on input line 3.
 (pdftex.def)             Requested size: 79.66771pt x 36.67278pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
 
-Overfull \hbox (1.65279pt too wide) in paragraph at lines 2--8
+Overfull \hbox (1.65279pt too wide) in paragraph at lines 2--9
 []$[]$ $[]$ 
  []
 
 <src/Images/transport_across_bilayer.png, id=24, 698.61pt x 128.48pt>
 File: src/Images/transport_across_bilayer.png Graphic file (type png)
 <use src/Images/transport_across_bilayer.png>
-Package pdftex.def Info: src/Images/transport_across_bilayer.png  used on input line 9.
+Package pdftex.def Info: src/Images/transport_across_bilayer.png  used on input line 10.
 (pdftex.def)             Requested size: 199.16928pt x 36.62894pt.
 ) (./src/VL5/passive_transport.tex
 Underfull \hbox (badness 6173) in paragraph at lines 3--5
@@ -1154,16 +1154,6 @@ File: src/Images/cell_cycle.png Graphic file (type png)
 <use src/Images/cell_cycle.png>
 Package pdftex.def Info: src/Images/cell_cycle.png  used on input line 2.
 (pdftex.def)             Requested size: 85.35826pt x 71.82683pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--9
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-
- []
-
 ) (./src/VL7/growth.tex
 <src/Images/doubling_time.png, id=89, 316.18124pt x 278.03876pt>
 File: src/Images/doubling_time.png Graphic file (type png)
@@ -1196,16 +1186,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--3
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 6--91
-
- []
-
-(./src/VL8/bioprocesses.tex
+) (./src/VL8/bioprocesses.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--4
 
  []
@@ -1265,6 +1250,11 @@ Package pdftex.def Info: src/Images/interm_fil.png  used on input line 2.
 
 Overfull \hbox (12.02608pt too wide) in paragraph at lines 2--3
 [][] 
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 10--11
+[]\OT1/cmss/bx/n/7 Major types: \OT1/cmss/m/n/7 Ker-atins (Hair), Vi-mentins
  []
 
 )
@@ -1575,13 +1565,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  25940 strings out of 474116
  531005 string characters out of 5743682
- 2029187 words of memory out of 5000000
+ 2028187 words of memory out of 5000000
  47659 multiletter control sequences out of 15000+600000
  562367 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  116i,19n,121p,517b,1012s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfsx0700.pfb>
-Output written on main.pdf (4 pages, 43555794 bytes).
+Output written on main.pdf (4 pages, 43557806 bytes).
 PDF statistics:
  266 PDF objects out of 1000 (max. 8388607)
  140 compressed objects within 2 object streams
